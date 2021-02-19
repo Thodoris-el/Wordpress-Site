@@ -1,0 +1,2 @@
+/**handles:wppb_front_end_script**/
+jQuery(document).ready(function(){jQuery("#wppb-register-user").length&&jQuery("#wppb-register-user").on("submit",function(e){e.preventDefault(),jQuery(".form-submit #register").attr("disabled",!0),this.submit()}),jQuery("#wppb_form_general_message").length&&jQuery([document.documentElement,document.body]).animate({scrollTop:jQuery("#wppb_form_general_message").offset().top},500)});

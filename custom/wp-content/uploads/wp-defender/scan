@@ -1,0 +1,22 @@
+ping url http://localhost/custom/wp-admin/admin-ajax.php?action=defender_process_scan
+Prepare facts for a scan
+Current task gather_fact
+processing gather_fact
+process done, queue for next
+Scan not done, pinging
+ping url http://localhost/custom/wp-admin/admin-ajax.php?action=defender_process_scan
+Current task gather_fact
+processing gather_fact
+task gather_fact processed
+queue core_integrity_check for next
+process done, queue for next
+Scan not done, pinging
+ping url http://localhost/custom/wp-admin/admin-ajax.php?action=defender_process_scan
+Current task core_integrity_check
+processing core_integrity_check
+Fetch checksums, should only once
+current pos 0
+skip E:\wamp64_2\www\custom\.htaccess because of file is whitelisted
+task core_integrity_check processed
+All done!
+process done, queue for next
