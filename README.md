@@ -1,5 +1,7 @@
 # Wordpress-Site-run on wamp
 
+A simple wordpress site with custom html, css and javascript elements
+
 ## Instructions
 Put the custom folder inside www folder :wamp_64/wwww
 
